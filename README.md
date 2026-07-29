@@ -32,7 +32,7 @@
 코딩 테스트 대비를 겸해 매일 문제를 푸는 루틴을 유지하고 있습니다. 알고리즘 자체보다 **꾸준함**을 보여주는 지표라고 생각해서 남겨둡니다.
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=heelun8525)](https://solved.ac/heelun8525)
-<img src="assets/solvedac-streak.png" width="600" alt="solved.ac 문제 해결 스트릭 - 최장 88일 연속">
+<img src="assets/solvedac-streak.png" width="420" alt="solved.ac 문제 해결 스트릭 - 최장 88일 연속">
 <br>
 
 ## 🤝 협업 방식
