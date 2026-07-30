@@ -33,6 +33,10 @@
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=heelun8525)](https://solved.ac/heelun8525)
 <img src="assets/solvedac-streak.png" width="420" alt="solved.ac 문제 해결 스트릭 - 최장 88일 연속">
+
+[**[KB] IT's Your Life 코딩테스트 스터디 Repository**](https://github.com/KB-ITL-CodingTest) (2025-03 ~ 2025-06) 
+<br>
+[**SSAFY 코딩테스트 스터디 Repository**](https://github.com/gwamul/ssafy_13_coding_test) (2026-02 ~ 2026-04)
 <br>
 
 ## 🤝 협업 방식
