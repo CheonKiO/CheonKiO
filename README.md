@@ -81,11 +81,16 @@ ICT 학점연계 프로젝트로 참여한 SI 웹개발 인턴십입니다. **�
 
 ## 🏯 HisTour — AI 기반 문화유산 탐방 기록 서비스 (2026-06-09 ~ 2026-06-25)
 
+
 > **3인 팀 · 17일 · SSAFY 관통 프로젝트**
 > 담당: 프로젝트 기반 설계, 데이터 배치 적재, AI 해설 파이프라인, 추천·리포트 API, FE 공통 기반
 > [Backend](https://github.com/financial-investment/HisTour_BE) · [Frontend](https://github.com/financial-investment/HisTour_FE)
 
 <!-- 스크린샷 자리 -->
+
+<img width="1550" height="690" alt="image" src="https://github.com/user-attachments/assets/78e695ef-814a-46b8-ae6c-cbd2e39c7ec6" />
+<img width="1444" height="661" alt="image" src="https://github.com/user-attachments/assets/5b787688-15b2-401e-9ee1-1eed5dddfc6a" />
+<img width="1416" height="693" alt="image" src="https://github.com/user-attachments/assets/7217bea5-5c79-4f27-8a38-935d8c191cfd" />
 
 사진 한 장과 현재 위치로 문화유산을 식별해 AI 해설을 제공하고, 탐방이 끝나면 퀴즈와 리포트로 복습하게 하는 서비스입니다. 국가유산청 데이터 **8,314건**(미디어 25,066건)을 배치 적재하고 전량 임베딩해 Redis Stack에 인덱싱했습니다.
 
@@ -122,13 +127,12 @@ ICT 학점연계 프로젝트로 참여한 SI 웹개발 인턴십입니다. **�
 
 #### "AI를 쓰면 돈이 나간다"
 
-AI 호출은 공짜가 아니라서, 비용을 설계 변수로 놓고 구조를 짰습니다.
+AI 호출에는 제한이 있었기 때문에, 비용을 최대한 효율적으로 사용할 수 있도록 구조를 짰습니다.
 
-- **분류와 해설을 분리** — 문화유산 식별에는 사진이 필요하지만 해설 생성에는 필요 없습니다. 두 호출을 나누자 해설만 **문화유산 단위로 공유 캐싱**할 수 있게 됐고, 같은 곳을 방문한 두 번째 사용자부터는 AI 호출이 1회로 줄었습니다.
+- **분류와 해설을 분리** — 처음엔 분류와 해설을 하나의 요청에 함께 담았습니다. 문화유산 식별에는 사진이 필요하지만 해설 생성에는 필요 없습니다. 두 호출을 나누어 해설은 **문화유산 단위로 공유 캐싱**할 수 있게 됐고, 같은 곳을 방문한 두 번째 사용자부터는 AI 호출이 1회로 줄었습니다.
 - **용도별 토큰 상한 차등** — 분류 50 / 요약 500 / 기본 해설 1500 / 심화 해설 2048
 - **모델 역할 분리** — 식별·요약은 GPT-4o, 심화 해설은 Claude Haiku
 - **Rate Limiting** — Redis `INCR` + TTL 1분으로 해설 API를 사용자당 분당 3회로 제한
-- 결과적으로 문화유산 8,314건 전체 임베딩을 약 9크레딧으로 처리했습니다.
 
 #### "같은 요청이 동시에 두 번 들어오면?"
 
@@ -162,6 +166,11 @@ AI 호출은 공짜가 아니라서, 비용을 설계 변수로 놓고 구조를
 > [Backend](https://github.com/KB-its-your-life-Final-Project/FinalProjectBack) · [Frontend](https://github.com/KB-its-your-life-Final-Project/FinalProjectFront)
 
 <!-- 스크린샷 자리 -->
+<img width="1505" height="790" alt="image" src="https://github.com/user-attachments/assets/deb98cd7-4de0-4772-8979-9455c567e584" />
+<img width="1498" height="793" alt="image" src="https://github.com/user-attachments/assets/6a6b0704-6c41-4366-9ece-0cd31c9d83de" />
+<img width="1498" height="781" alt="image" src="https://github.com/user-attachments/assets/2b3ccac9-d914-4918-b92d-9944630b4538" />
+<img width="1496" height="784" alt="image" src="https://github.com/user-attachments/assets/647da236-50fe-4751-be2d-47af0e82773c" />
+
 
 전세사기 피해자의 75%가 2030이라는 데이터에서 출발해, 주소만 입력하면 실거래가·건축물대장·재정 안정성을 종합한 안심 리포트를 제공하는 서비스입니다.
 
@@ -242,6 +251,9 @@ CODEF 건축물대장은 **일반 건축물**과 **집합 건축물**로 요청 
 > [Backend](https://github.com/CheonKiO/omok-back) · [Frontend](https://github.com/CheonKiO/omok-front) · **[▶ Live Demo](https://cheonkio.github.io/)**
 
 <!-- 스크린샷 자리 -->
+<img width="1555" height="845" alt="image" src="https://github.com/user-attachments/assets/5bc10348-3cd9-45a2-8faa-6d86cd3815fa" />
+<img width="1696" height="862" alt="image" src="https://github.com/user-attachments/assets/249f36ff-5dd1-4dd9-8890-599030bb92dd" />
+<img width="1699" height="852" alt="image" src="https://github.com/user-attachments/assets/b66ed493-a990-404c-9faa-7ae67b247e4a" />
 
 STOMP/SockJS 기반 실시간 대전 오목. Oracle Cloud에 직접 배포해 운영 중입니다.
 
