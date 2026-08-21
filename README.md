@@ -1,7 +1,7 @@
 # 안녕하세요. 천기오입니다.
 
-▎ 저는 진짜 문제가 무엇인지, 왜 해야 하는지를 먼저 고민합니다. <br>
-▎ 널리 쓰이는 기술도 정말 제 상황에 적절한지 따져보고, 더 쉽고 단순한 방법이 있으면 그쪽을 택합니다.
+저는 진짜 문제가 무엇인지, 왜 해야 하는지를 먼저 고민합니다. <br>
+널리 쓰이는 기술도 정말 제 상황에 적절한지 따져보고, 더 쉽고 단순한 방법이 있으면 그쪽을 택합니다.
 
 <br>
 
@@ -22,7 +22,7 @@
 
 **Backend** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-DB2545?style=flat&logo=mybatis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**Frontend** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+**Frontend** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Infra / Tools** ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -30,7 +30,8 @@
 
 ## 🧩 Algorithm
 
-매일 문제를 푸는 루틴을 유지하고 있습니다. 알고리즘은 주어진 제약 안에서 무엇을 포기할지 고르는 훈련이라고 생각합니다. 그렇게 쌓인 감각이 코드를 검증하고 더 나은 방법을 제안할 때 쓰입니다.
+매일 문제를 푸는 루틴을 유지하고 있습니다. 알고리즘은 주어진 제약 안에서 무엇을 포기할지 고르는 훈련이라고 생각합니다. 
+그렇게 쌓은 감각은 실무에서 코드를 검증하고 더 나은 방법을 찾는 밑바탕이 됩니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=heelun8525)](https://solved.ac/heelun8525)
 <img src="assets/solvedac-streak.png" width="420" alt="solved.ac 문제 해결 스트릭 - 최장 88일 연속">
@@ -42,7 +43,7 @@
 
 ## 🤝 협업 방식
 
-- 팀원이 가져다 쓸 기반을 만드는 역할 — 각자 만든 중복 컴포넌트를 공통으로 합치고, 커진 화면을 책임 단위로 쪼갰습니다. 기능이 끝난 뒤 몰아서가 아니라 진행 중에 계속 다듬는 편이라, 세 프로젝트에서 이 역할을 반복해 맡았습니다.
+- 팀원이 가져다 쓸 공통 기반을 만드는 역할 — 팀원마다 따로 만든 중복 컴포넌트를 하나로 합치고, 너무 커진 화면을 책임 단위로 쪼갰습니다. 이런 정리는 기능이 끝난 뒤 몰아서 하지 않고 개발 중에 꾸준히 하는 편이고, 세 프로젝트에서 같은 역할을 반복해 맡았습니다.
 - 프로젝트의 빈틈을 메우는 역할 — 드러나지 않은 위험은 없는지 살피고, 회색지대에 남은 일을 상기시키는 편입니다. 팀원들에게 "거기까지 생각 못 했다"는 말을 들을 때가 많았습니다.
 - 판단 근거를 남기는 커밋과 PR — 무엇을 왜 바꿨는지 기능 단위로 나눠 적고, 구조를 바꿀 때는 왜 다른 방법을 안 골랐는지까지 함께 적습니다. PR은 작업 내역 / 변경 사항 / 테스트 플랜 형식으로 씁니다.
 
@@ -96,10 +97,9 @@ jQuery·PHP 기반 사내 프레임워크 위에서 개발해야 했는데, 언�
 > 담당: 실거래가 외부 API 연동 구조, 동네 검색 성능 개선, 관심 목록, 공용 컴포넌트, 백엔드 환경 구성, 설치 가이드
 > [Backend](https://github.com/KB-its-your-life-Final-Project/FinalProjectBack) · [Frontend](https://github.com/KB-its-your-life-Final-Project/FinalProjectFront)
 
-<img width="1505" height="790" alt="image" src="https://github.com/user-attachments/assets/deb98cd7-4de0-4772-8979-9455c567e584" />
-<img width="1498" height="793" alt="image" src="https://github.com/user-attachments/assets/6a6b0704-6c41-4366-9ece-0cd31c9d83de" />
-<img width="1498" height="781" alt="image" src="https://github.com/user-attachments/assets/2b3ccac9-d914-4918-b92d-9944630b4538" />
-<img width="1496" height="784" alt="image" src="https://github.com/user-attachments/assets/647da236-50fe-4751-be2d-47af0e82773c" />
+<img width="1505" height="790" alt="image" src="assets/lighthouse-1.png" />
+<img width="1498" height="781" alt="image" src="assets/lighthouse-3.png" />
+<img width="1496" height="784" alt="image" src="assets/lighthouse-4.png" />
 
 전세사기 피해자의 75%가 2030이라는 데이터에서 출발해, 주소만 넣으면 실거래가·건축물대장·재정 안정성을 종합한 안심 리포트를 주는 서비스입니다. 규모 있는 데이터를 처음 다뤄본 실전 팀 프로젝트였습니다.
 
@@ -111,7 +111,7 @@ jQuery·PHP 기반 사내 프레임워크 위에서 개발해야 했는데, 언�
 
 공공데이터 API의 아파트 / 연립다세대 / 오피스텔 / 단독다가구 × 매매 / 전월세 — 엔드포인트도 응답 구조도 조금씩 달랐습니다. 8개를 각각 구현하면 호출·파싱·저장 흐름이 유사하게 복제됩니다.
 
-자바 인터페이스를 막 배운 참이라 실제로 적용해보고 싶었고, 응답 타입만 다르고 흐름은 거의 같다는 데 착안해서 저장 동작을 `SaveHandler<T>` 함수형 인터페이스로 빼봤습니다. 각 API는 VO 타입과 매퍼 메서드 레퍼런스만 넘기고, XML 응답은 `XmlMapper` + `constructParametricType`으로 제네릭 DTO 하나가 8종을 다 받게 했습니다.
+응답 타입만 다르고 흐름은 거의 같다는 데 착안해, 저장 동작을 `SaveHandler<T>` 함수형 인터페이스로 뺐습니다 — 마침 자바 인터페이스를 배운 참이라 실제로 적용해보고 싶기도 했습니다. 각 API는 VO 타입과 매퍼 메서드 레퍼런스만 넘기고, XML 응답은 `XmlMapper` + `constructParametricType`으로 제네릭 DTO 하나가 8종을 다 받게 했습니다.
 
 ```java
 insertCommon(APT_TRADE_ENDPOINT, lawdCd, dealYmd,
@@ -131,11 +131,11 @@ insertCommon(APT_TRADE_ENDPOINT, lawdCd, dealYmd,
 | 단건 INSERT 반복 | 약 2분            |
 | bulk INSERT      | 약 2초            |
 
-I/O를 한 번에 묶는 게 낫다는 건 알았지만, 그 차이가 **60배**로 다가온 건 처음이었습니다. 이후 나머지 API 적재도 전부 bulk로 바꾸고, 측정치를 주석으로 남겨 나중에 이 값을 건드릴 사람이 근거를 보게 했습니다.
+I/O를 한 번에 묶는 게 낫다는 걸 알고는 있었지만, 그 차이가 실제로 이렇게 크다는 걸 처음 경험했습니다. 이후 나머지 API 적재도 전부 bulk로 바꾸고, 측정치를 주석으로 남겨 나중에 이 값을 건드릴 사람이 근거를 보게 했습니다.
 
 #### 동네 검색이 느렸던 이유
 
-법정동 검색어 후보를 타이핑할 때마다 서버가 DB를 조회해 반응이 느렸습니다. 처음엔 디바운스·캐싱으로 호출을 줄이려 했지만, 그게 근본 개선인지 고민했습니다.
+법정동 검색어 후보를 타이핑할 때마다 DB 조회가 발생하여 반응이 느렸습니다. 처음엔 디바운스·캐싱으로 호출을 줄이려 했지만, 그게 근본 개선인지 고민했습니다.
 
 법정동 코드는 바뀔 일이 거의 없는 정적 데이터이고 5,000건·6필드의 소규모였습니다. 매번 왕복하는 것보다 처음 한 번 다 받아두고 검색은 브라우저에서 하는 게 싸다고 판단해 구조를 바꿨습니다.
 
@@ -164,9 +164,9 @@ I/O를 한 번에 묶는 게 낫다는 건 알았지만, 그 차이가 **60배**
 > 담당: AI 연동 파이프라인, 임베딩·벡터 검색, 데이터 배치 적재, 추천·리포트 API, 백엔드·프론트엔드 공통 기반(응답 규격·전역 예외·JWT 인터셉터·인증 가드)
 > [Backend](https://github.com/financial-investment/HisTour_BE) · [Frontend](https://github.com/financial-investment/HisTour_FE)
 
-<img width="1550" height="690" alt="image" src="https://github.com/user-attachments/assets/78e695ef-814a-46b8-ae6c-cbd2e39c7ec6" />
-<img width="1444" height="661" alt="image" src="https://github.com/user-attachments/assets/5b787688-15b2-401e-9ee1-1eed5dddfc6a" />
-<img width="1416" height="693" alt="image" src="https://github.com/user-attachments/assets/7217bea5-5c79-4f27-8a38-935d8c191cfd" />
+<img width="1550" height="690" alt="image" src="assets/histour-1.png" />
+<img width="1444" height="661" alt="image" src="assets/histour-2.png" />
+<img width="1416" height="693" alt="image" src="assets/histour-3.png" />
 
 사진 한 장과 위치 정보로 문화유산을 식별해 AI 해설을 주고, 탐방이 끝나면 퀴즈와 리포트로 복습하게 하는 서비스입니다.
 
@@ -176,17 +176,13 @@ I/O를 한 번에 묶는 게 낫다는 건 알았지만, 그 차이가 **60배**
 
 ### 🔍 무엇을 고민했나
 
-#### 할루시네이션을 줄이려고, 질문을 객관식으로 바꿨습니다
+#### 할루시네이션을 줄이려고, 좌표로 좁혀 객관식으로 물었습니다
 
-사진을 주고 "이게 뭐야?"처럼 열어놓고 물으면 모델은 그럴듯한 오답을 만들고, 없는 문화유산 이름이 나와도 서비스는 틀렸는지 알 수 없습니다.
+사진을 주고 "이게 뭐야?"처럼 열어놓고 물으면 모델은 그럴듯한 오답을 만들고, 없는 문화유산 이름이 나와도 서비스는 틀렸는지 알 수 없습니다. 그래서 **모델이 낼 수 있는 답의 범위를 코드가 미리 정해두는 구조**로 갔습니다.
 
-그래서 묻는 방식을 바꿨습니다. 기준 좌표에서 **반경 500m 안의 후보를 DB에서 뽑아** 사진과 함께 넘긴 뒤 **번호 하나만** 받습니다. 출력이 숫자뿐이라 `max_tokens`를 50으로 묶었고, 후보에 없으면 `0`을 반환하도록 프롬프트에 규정, 서비스단에서도 범위를 벗어난 번호는 식별 실패로 끊습니다.
+먼저 기준 좌표에서 **반경 500m 안의 후보를 DB에서 뽑고**, 사진과 그 목록을 함께 넘긴 뒤 **번호 하나만** 받습니다. 출력이 숫자뿐이라 `max_tokens`를 50으로 묶었고, 후보에 없으면 `0`을 반환하도록 프롬프트에 규정했고, 서비스단에서도 범위를 벗어난 번호는 식별 실패로 끊습니다. 자유롭게 생성시킨 뒤 후처리로 거르기보다, 애초에 고를 선택지만 주는 쪽이 확실하다고 봤습니다.
 
-**모델이 낼 수 있는 답의 범위를 코드가 미리 정해두는 구조**입니다. 자유롭게 생성시킨 뒤 후처리로 거르기보다, 애초에 고를 선택지만 주는 쪽이 확실하다고 봤습니다.
-
-#### 후보를 좁히는 기준은 좌표였습니다
-
-찍은 곳과 서 있는 곳이 다를 수 있다는 점을 감안해, 사진 EXIF에 촬영 좌표가 있으면 그것을 우선 쓰고 없을 때만 기기 위치로 넘어가게 했습니다. 걸림돌은 아이폰이었습니다 — HEIC를 브라우저에서 다루려면 JPEG로 변환해야 하는데 **브라우저 캔버스로 재인코딩하는 과정에서 EXIF가 유실되어**, 좌표는 변환본이 아니라 원본 파일에서 읽도록 했습니다. 사진은 식별에 필요한 최소 크기만 넘기도록 512px · JPEG 70%로 압축해 보냈습니다 — 비전 입력은 해상도가 클수록 토큰을 더 먹기 때문입니다. 이렇게 기기·브라우저마다 갈리는 경우를 미리 고려해 처리했습니다.
+후보를 좁히는 기준 좌표는 EXIF를 우선 썼습니다 — 찍은 곳과 서 있는 곳이 다를 수 있어, 사진에 촬영 좌표가 있으면 그것을, 없으면 기기 위치를 씁니다. 걸림돌은 아이폰이었는데, HEIC를 브라우저에서 JPEG로 변환할 때 **캔버스 재인코딩 과정에서 EXIF가 유실되어** 좌표는 변환본이 아니라 원본에서 읽도록 했습니다. 사진 자체는 512px · JPEG 70%로 압축해 보냈습니다 — 비전 입력은 해상도가 클수록 토큰을 더 먹기 때문입니다.
 
 #### 토큰이 유한한 자원이라는 전제에서 설계했습니다
 
@@ -197,10 +193,11 @@ I/O를 한 번에 묶는 게 낫다는 건 알았지만, 그 차이가 **60배**
 - 용도별 토큰 상한 차등 — 분류 50 / 요약 500 / 기본 해설 1500 / 심화 해설 2048 / 퀴즈 생성 4096
 - 작업 성격별 모델 라우팅 — 정확한 비전 분류가 필요한 앞단은 GPT-4o, 출력이 크고 대량으로 생성되는 심화 해설·퀴즈는 저비용 모델(Claude Haiku)
 - 사용자당 호출 제한 — Redis `INCR` + TTL 1분으로 해설 API를 분당 3회로 제한
+- 동시 요청 중복 차단 — 같은 문화유산이 캐시 차기 전 겹쳐 들어오면 ID 단위 락으로 비싼 해설 호출을 한 번으로 (단일 인스턴스 전제)
 
 #### 별도 벡터 DB 없이, Redis로 의미 기반 추천까지
 
-의미가 비슷한 문화유산을 찾는 추천에는 벡터 유사도 검색이 필요했고, 코사인 KNN은 HashMap·RDB로 풀 수 없어 Redis Stack의 벡터 인덱스로 구현했습니다. 캐시·카운터·레이트리밋도 Redis로 처리했는데, 특히 분당 3회 제한은 `INCR`+TTL로 키별 만료가 네이티브라 잘 맞았습니다. 문화유산 전량을 `text-embedding-3-small`로 임베딩해 1536차원 벡터로 만들고 코사인 거리로 인덱싱했으며, Spring Data Redis가 RediSearch를 지원하지 않아 벡터 질의만 Jedis로 `FT.SEARCH`를 직접 호출했습니다.
+의미가 비슷한 문화유산을 찾는 추천에는 벡터 유사도 검색이 필요했고, 코사인 KNN은 HashMap·RDB로 풀 수 없어 Redis Stack의 벡터 인덱스로 구현했습니다. 캐시·카운터·레이트리밋도 같은 Redis로 처리했습니다. 문화유산 전량을 `text-embedding-3-small`로 임베딩해 1536차원 벡터로 만들고 코사인 거리로 인덱싱했으며, Spring Data Redis가 RediSearch를 지원하지 않아 벡터 질의만 Jedis로 `FT.SEARCH`를 직접 호출했습니다.
 
 이 인덱스를 추천 기능 두 개가 나눠 쓰는데, 둘 다 같은 유사도를 쓰면서 **거리 조건은 정반대**로 지정했습니다.
 
@@ -213,14 +210,6 @@ I/O를 한 번에 묶는 게 낫다는 건 알았지만, 그 차이가 **60배**
 
 > 🔗 [`CourseService.java#L21-L22`](https://github.com/financial-investment/HisTour_BE/blob/c2ae4d654700d063fe60d0f5e0d7a38331612d81/src/main/java/com/histour/domain/report/CourseService.java#L21-L22) — 클러스터 반경 25km · 최소 이격 거리 50km
 
-#### 같은 요청이 동시에 두 번 들어오면
-
-캐시가 채워지기 전에 같은 문화유산 요청이 동시에 들어오면 두 요청 모두 AI를 호출해 비용이 두 배가 됩니다. 문화유산 ID로 만든 문자열을 `intern()`해 그 객체에 `synchronized`를 걸었습니다 — 락 범위를 문화유산 단위로 좁혀, 다른 문화유산 요청은 서로 막지 않되 같은 대상의 중복 호출만 막았습니다.
-
-다만 이건 **한 JVM 안에서만 유효한 락**입니다. 현재 단일 인스턴스 구조에서는 문제가 없지만, 확장을 염두에 뒀다면 Redis 분산 락을 활용했을 것입니다.
-
-> 🔗 [`HeritageService.java#L73`](https://github.com/financial-investment/HisTour_BE/blob/c2ae4d654700d063fe60d0f5e0d7a38331612d81/src/main/java/com/histour/domain/heritage/service/HeritageService.java#L73)
-
 #### 외부 데이터를 다루는 법 — LightHouse에서 아쉬웠던 부분 개선
 
 국가유산청 데이터 8,313건을 배치로 적재해 기반 데이터로 삼았습니다.
@@ -229,28 +218,21 @@ I/O를 한 번에 묶는 게 낫다는 건 알았지만, 그 차이가 **60배**
 
 LightHouse에서 성격이 다른 API를 억지로 기존 구조에 맞추려다 별도 경로로 돌아간 적이 있어, 이번엔 처음부터 갈랐습니다. 정상 응답 세 개는 `XmlMapper`로 두고, 이미지 API만 비정상 태그를 걷어낸 뒤 StAX로 순회해 필드 쌍마다 항목 하나로 세도록 따로 짰습니다. 깨진 케이스는 테스트로 고정했습니다.
 
-LightHouse에서 좌표에 인덱스를 안 걸어 지도 조회가 전체 스캔이 됐던 탓에, 이번엔 스키마 단계에서 챙겨 두 테이블 모두 좌표를 `POINT(SRID 4326)`으로 두고 공간 인덱스를 걸었습니다. 다만 이게 실제로 인덱스를 타는지까지 확인하지 못한 반쪽짜리 개선이었고, 그 이야기는 아래 아쉬운 점에서 이어집니다.
-
-시대 필드가 비어 있거나 자유 텍스트("을사년(1605)", "17세기")로 오는 것도 규칙을 세워 정규화하고, 삼국 668 · 고려 918 · 조선 1392처럼 시대가 갈리는 연도마다 경계값 테스트를 붙였습니다.
-
 > 🔗 [`HeritageApiClient.java`](https://github.com/financial-investment/HisTour_BE/blob/main/src/main/java/com/histour/client/HeritageApiClient.java)
+
+LightHouse에서 좌표에 인덱스를 안 걸어 지도 조회가 전체 스캔이 됐던 탓에, 이번엔 스키마 단계에서 챙겨 두 테이블 모두 좌표를 `POINT(SRID 4326)`으로 두고 공간 인덱스를 걸었습니다. 다만 이게 실제로 인덱스를 타는지까지 확인하지 못한 반쪽짜리 개선이었고, 그 이야기는 아래 아쉬운 점에서 이어집니다.
 
 ### 💡 얻은 것
 
 - **생성의 범위를 미리 좁히는 설계.** 열린 질문을 던지고 결과를 검사하는 것보다, 답이 될 수 있는 것만 주고 고르게 하는 쪽이 훨씬 안전했습니다. 할루시네이션을 사후에 걸러내는 문제에서 **애초에 생길 수 없게 만드는 문제**로 바꿔 본 경험입니다.
 - **비용이 구조를 정할 수 있다는 감각.** 캐시를 어느 단위로 잡을지, 무엇을 어디에 저장할지, 어떤 작업을 어떤 모델로 보낼지를 전부 "얼마나 싸게 되는가"에서 역산했습니다. 성능이 아니라 비용이 설계를 끌고 간 첫 경험이었습니다.
 - **AI 응답은 믿을 수 없는 입력이라는 관점.** JSON 형식을 강제하고, 마크다운 코드블록으로 감싸 오는 경우와 토큰 상한에 잘려 오는 경우까지 확인한 뒤에야 서비스에 반영했습니다. 잘린 응답은 조용히 넘기지 않고 명확한 예외로 바꿨습니다.
-- **정확한 것과 유용한 것을 구분하는 감각.** 유사도 점수가 높아도 사용자 맥락에서 의미가 없으면 틀린 추천이었습니다. 지표가 좋다고 기능이 좋은 게 아니라는 걸 겪었습니다.
 
 ### 🙁 지금 보면 아쉬운 점
 
-**AI가 만들어낸 결과의 품질을 제대로 검증하지 못했습니다.** 인증·퀴즈·배치처럼 입력이 같으면 출력이 같은 코드에는 테스트를 깔았지만, 정작 핵심인 **사진 판별 정확도와 생성된 해설·퀴즈의 품질은 장소 10~20곳을 직접 찍어 눈으로 확인한 게 전부**였습니다. 프롬프트도 안 되는 케이스를 보고 고친 뒤 그 케이스로 되돌려보는 식이라, 진짜 좋아진 건지 그 케이스에만 맞춘 건지 구분할 수 없었습니다.
+**AI가 만든 결과의 품질을 제대로 검증하지 못했습니다.** 입력이 같으면 출력이 같은 인증·퀴즈·배치에는 테스트를 깔았지만, 정작 핵심인 **사진 판별 정확도와 해설·퀴즈 품질은 장소 10~20곳을 직접 찍어 눈으로 확인한 게 전부**였습니다. 프롬프트도 안 되는 케이스를 보고 고친 뒤 그 케이스로 되돌려보는 식이라, 진짜 좋아진 건지 과적합인지 알 수 없었습니다. 지금이라면 **정답을 붙인 평가셋을 먼저 만들어** 고치는 케이스와 재는 케이스를 분리했을 것입니다 — AI를 서비스에 넣는 건 결국 정답이 하나가 아닌 출력을 어떻게 검증하느냐의 문제라, 이후 AI 기능에서 가장 먼저 챙기는 부분이 됐습니다.
 
-추천 알고리즘도 같은 뿌리에서 아쉽습니다. 무엇을 기준으로 비슷하다고 할지 먼저 정하지 않고 이름·분류·시대·설명을 뭉쳐 한 벌의 벡터로 만들어 두 기능이 그대로 나눠 썼습니다. 방문 이력을 평균 벡터 하나로 압축한 것도, 최종 순서를 거리만으로 정한 것도 더 다듬을 자리입니다. **품질을 재는 기준이 없으니 정교하게 만들 근거도 없었던 셈**입니다.
-
-지금이라면 **정답을 붙인 평가셋을 먼저 만들고**, 프롬프트를 고칠 때 쓰는 케이스와 성능을 재는 케이스를 분리했을 것입니다. AI를 서비스에 넣는다는 건 결국 **정답이 하나가 아닌 출력을 어떻게 검증하느냐**의 문제인데, 이 프로젝트에선 그 답이 없었습니다. 이후 AI 기능을 만들 때 가장 먼저 챙기게 된 부분입니다.
-
-공간 인덱스도 걸어두기만 하고 실제로 쓰이는지는 확인하지 않았습니다. 조회 쿼리에서 `ST_Latitude(location) BETWEEN ...`처럼 인덱스 컬럼을 함수로 감싸 정작 인덱스를 타지 못하게 짰습니다 — 스키마에서 고친 실수를 쿼리 층에서 다시 한 셈입니다. 데이터가 8천여 건이라 문제되진 않았지만, 실행 계획을 확인하지 않아 몰랐고 다음에 DB를 구성하면 꼭 챙길 부분입니다.
+추천도 같은 뿌리에서 아쉽습니다 — 무엇을 기준으로 비슷하다 할지 정하지 않고 이름·분류·시대·설명을 한 벌의 벡터로 뭉쳐 두 기능이 그대로 나눠 썼고, 품질 기준이 없으니 더 정교하게 만들 근거도 없었습니다. 공간 인덱스도 걸어두기만 하고 조회 쿼리에서 인덱스 컬럼을 함수로 감싸 정작 타지 못하게 짰는데, 실행 계획을 한 번도 확인하지 않은 탓입니다 — 8천여 건이라 문제는 안 됐지만 다음에 DB를 구성하면 꼭 챙길 부분입니다.
 
 <br>
 
@@ -261,11 +243,11 @@ LightHouse에서 좌표에 인덱스를 안 걸어 지도 조회가 전체 스�
 > **개인 프로젝트**
 > [Backend](https://github.com/CheonKiO/omok-back) · [Frontend](https://github.com/CheonKiO/omok-front) · **[▶ Live Demo](https://cheonkio.github.io/)**
 
-<img width="1555" height="845" alt="image" src="https://github.com/user-attachments/assets/5bc10348-3cd9-45a2-8faa-6d86cd3815fa" />
-<img width="1696" height="862" alt="image" src="https://github.com/user-attachments/assets/249f36ff-5dd1-4dd9-8890-599030bb92dd" />
-<img width="1699" height="852" alt="image" src="https://github.com/user-attachments/assets/b66ed493-a990-404c-9faa-7ae67b247e4a" />
+<img width="1555" height="845" alt="image" src="assets/omok-1.png" />
+<img width="1696" height="862" alt="image" src="assets/omok-2.png" />
+<img width="1699" height="852" alt="image" src="assets/omok-3.png" />
 
-STOMP/SockJS 기반 실시간 대전 오목. Oracle Cloud에 직접 배포해 운영 중입니다. 1차는 부트캠프에서 배운 걸 복습하고 배포까지 끝까지 경험하려고, 2차는 AI 에이전트 활용을 시험하려고 진행한 프로젝트입니다.
+STOMP/SockJS 기반 실시간 대전 오목. Oracle Cloud에 직접 배포해 운영 중입니다. 1차는 부트캠프에서 배운 걸 복습하고 배포까지 직접 경험하려고, 2차는 AI 에이전트 활용을 시험하려고 진행한 프로젝트입니다.
 
 `Java 21` `Spring MVC 6` `WebSocket/STOMP` `Vue 3` `Pinia` `Tomcat 10` `GitHub Actions`
 
@@ -285,11 +267,11 @@ STOMP/SockJS 기반 실시간 대전 오목. Oracle Cloud에 직접 배포해 �
 
 > 🔗 [`WebSocketEventListener.java#L68-L93`](https://github.com/CheonKiO/omok-back/blob/main/src/main/java/org/scoula/room/service/WebSocketEventListener.java#L68-L93) — 게임 중 끊김 vs 게임 외 끊김 분기
 
-### 💡 얻은 것 — 그리고 두 번 만든 이유
+### 💡 얻은 것
 
-1차의 가장 큰 수확은 개발 이후를 처음 끝까지 겪어본 것입니다. 도메인을 사서 연결하고, 외부는 HTTPS로 받아 내부는 HTTP로 넘기도록 프록시를 두고, 로컬에선 되던 게 서버에선 안 되는 지점들을 하나씩 풀었습니다. **개발이 끝이 아니라 운영에서 신경 쓸 게 훨씬 많다**는 점을 크게 느꼈습니다.
+1차에서는 배운 걸 실전에 써보고 배포·운영까지 가볍게나마 겪었습니다. 도메인을 사서 연결하고, 외부는 HTTPS로 받아 내부는 HTTP로 넘기는 프록시를 두고, 로컬에선 되던 게 서버에선 안 되는 지점들을 하나씩 풀었습니다. **개발이 끝이 아니라 운영에서 신경 쓸 게 훨씬 많다**는 걸 크게 느꼈습니다.
 
-2차는 AI 에이전트로 바이브 코딩을 처음 제대로 써본 프로젝트이고, 그러면서 테스트에 대한 생각이 크게 바뀌었습니다. 1차에서 테스트를 안 짠 건 생산성 때문이었는데, AI를 쓰니 테스트를 붙이는 비용이 확 낮아져 판정 로직에 테스트를 두를 수 있었고, 옛 로직이 3-3을 잘못 판정하던 버그도 그 검증 과정에서 드러났습니다.
+2차는 AI 에이전트를 개발에 본격적으로 써본 첫 프로젝트로, 개발 방식 — 특히 테스트에 대한 생각이 크게 바뀌었습니다. 1차에서 테스트를 건너뛴 건 생산성 때문이었는데, AI가 테스트 작성 비용을 확 낮추자 판정 로직에 테스트를 두를 수 있었고, 옛 로직이 3-3을 잘못 판정하던 버그도 그 과정에서 드러났습니다. 그래서 앞으로는 AI를 다루는 나만의 방식을 얼마나 단단히 갖추느냐가 개발을 크게 좌우하겠다고 생각하게 됐습니다.
 
 <br>
 
